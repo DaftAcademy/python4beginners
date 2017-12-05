@@ -1,6 +1,6 @@
 import pytest
 
-from bank_account import (
+from zad02_bank_account import (
     BankAccount,
     NotEnoughMoney,
 )

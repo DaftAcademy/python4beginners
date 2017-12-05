@@ -3,7 +3,7 @@ from unittest.mock import patch
 
 import pytest
 
-from bank_account_with_promo import (
+from zad03_bank_account_with_promo import (
     BankAccount,
     NotEnoughMoney,
 )

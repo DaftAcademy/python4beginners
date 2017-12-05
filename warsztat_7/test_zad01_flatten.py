@@ -1,4 +1,4 @@
-from zadanie1 import flatten
+from zad01_flatten import flatten
 
 
 def test_flatten_not_nested_list():
