@@ -1,7 +1,7 @@
-# Napisać funkcję longest_collatz(start, stop)
-# Funkcja ma nam zwrócić długość najdłuższej sekwencji Collatza i wartość startową dla wartości od start włącznie, do stop wyłącznie.
-# W tym zadaniu można (nie ma przymusu) użyc generatorów. 
-# TODO: Arek/Krzysiek wolicie, żeby zaimportowali z zadania nr 1 czy wkleili tu kod klasa jeszcze raz?
+# Napisz funkcję longest_collatz(start, stop)
+# Funkcja ma zwracać długość najdłuższej sekwencji Collatza i wartość startową dla wartości od ‘start’ włącznie, do ‘stop’ wyłącznie.
+# W tym zadaniu można (lecz nie ma przymusu) użyć generatorów.
+# Proszę o wykorzystanie kodu z zadania 1 (przeklejcie kod do tego zadania, żeby uniknąć problemów z importami, to nie zadanie na sprawdzenie importowania)
 
 class CollatzSeq:
  	def __init__(self, start_value):

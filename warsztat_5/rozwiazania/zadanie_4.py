@@ -1,9 +1,9 @@
-# Requests - wszystkie osoby z gwiezdnych wojen
-# api url: https://swapi.co/
-# Proszę napisać generator listujący wszystkie "osoby" z sagi Star Wars.
-# Osoby proszę pobierać wewnątrz generatora z api url.
-# Osoby powinny być generowane w kolejności z api url.
-# Jeśli generator nie będzie mógł się połączyć z api, to powinien się zakończyć - generacja osób nie jest możliwa.
+# Requests: Wszystkie postaci z “Gwiezdnych Wojen”
+#
+# Na podstawie API: https://swapi.co/ napisz generator listujący wszystkie postaci pochodzące
+# z sagi Star Wars `sw_person_generator`. Postaci zwracaj wg kolejności z API.
+# Jeśli generator nie będzie mógł się połączyć z API, to powinien się zakończyć - generacja osób nie jest możliwa.
+# Proszę użyć modułu requests.
 
 
 
